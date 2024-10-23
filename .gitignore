@@ -1,0 +1,7 @@
+out/
+tmp/
+.clangd
+.clang-format
+**/*.swp
+.vscode/
+*.o
